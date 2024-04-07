@@ -1,0 +1,16 @@
+{
+    "name": "s/desenrola",
+    "autoload": {
+        "psr-4": {
+            "S\\Desenrola\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "sombra"
+        }
+    ],
+    "require": {
+        "pear/http_request2": "^2.6"
+    }
+}
