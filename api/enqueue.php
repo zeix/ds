@@ -1,7 +1,7 @@
 <?php
 
 // Diretório onde os arquivos da fila serão armazenados
-$queueDir = __DIR__ . '/../queue/';
+$queueDir = '../queue/';
 
 // Verifica se o diretório da fila existe, senão cria
 if (!file_exists($queueDir)) {
